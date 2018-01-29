@@ -19,12 +19,12 @@ function johnLennonFacts(facts) {
 }
 
 // 
-function iLoveTheBeatles(i) {
+function iLoveTheBeatles(n) {
   var newArray = [];
   do {
     newArray[i] = "I love the Beatles!";
     i++;
   }
-  while (i < 15);
+  while (n < 15);
   return newArray;
 }
