@@ -7,7 +7,7 @@ function theBeatlesPlay(musicians, instruments) {
   }
   return newArray; 
 }
-
+/*
 // 
 function johnLennonFacts() {
   
@@ -17,3 +17,4 @@ function johnLennonFacts() {
 function iLoveTheBeatles() {
   
 }
+*/
