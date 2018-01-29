@@ -24,6 +24,7 @@ function iLoveTheBeatles(n) {
   var i = n;
   do {
     newArray[n-i] = "I love the Beatles!";
+    if (n === 17) { break; }
     n++;
   }
   while (n < 15);
